@@ -1,6 +1,6 @@
 ### Assignment
 
-Anaylyze a dataset of the global average sea level change since 1880. And use the data to predict the sea level change through year 2050.
+Analyze a dataset of the global average sea level change since 1880. And use the data to predict the sea level change through year 2050.
 
 Use the data to complete the following tasks:
 * Use Pandas to import the data from `epa-sea-level.csv`.
